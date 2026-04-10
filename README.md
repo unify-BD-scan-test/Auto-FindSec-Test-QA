@@ -13,7 +13,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Seat Availability
 - Train Timings
 - Fare Enquiry
-- Trains Between Stations
+- Trains Between Stations 
 - Booking seats online.
 - Login and Logout Security
 - Password Changes
